@@ -69,18 +69,16 @@ const venues = [
       ],
     },
     {
-      id: '1',
-      image:
-        'https://playo.gumlet.io/PANCHAJANYABADMINTONFITNESSACADEMY/panchajanyabadmintonfitnessacademy1597334767773.jpeg?mode=crop&crop=smart&h=200&width=450&q=40&format=webp',
-      name: 'Game Point Arena',
+    name: 'Game Point Arena',
+    deferLink: "https://z34v4.app.goo.gl/MAAX",
+    fullLink: "https://playo.co/venue/?venueId=afbe7186-2f86-4215-8715-4b967f166b09",
       address: 'Wakad',
-      location:'Pink City Road Opposite Ashwani Galaxy',
       rating: 4.0,
+       
       lat:18.60139387648086,
       lng:73.76740839556835,
-      newImage:
-        'https://images.pexels.com/photos/3660204/pexels-photo-3660204.jpeg?auto=compress&cs=tinysrgb&w=800',
-      timings: '5 AM - 10 PM',
+        icon: 'https://maps.google.com/mapfiles/kml/paddle/4-lv.png',
+        filter_by: ['Pool', 'Snooker'],
       sportsAvailable: [
         {
           id: '10',
@@ -135,6 +133,12 @@ const venues = [
           ],
         },
       ],
+        
+        image:
+        'https://playo.gumlet.io/PANCHAJANYABADMINTONFITNESSACADEMY/panchajanyabadmintonfitnessacademy1597334767773.jpeg?mode=crop&crop=smart&h=200&width=450&q=40&format=webp',
+        location:'Pink City Road Opposite Ashwani Galaxy',
+        address: 'Wakad', 
+        bookings: [],
     },
     {
       id: '2',
